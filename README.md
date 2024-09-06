@@ -3,7 +3,7 @@
 ASHWITHA
 #Artificial Intelligence and Mahine Learning Lab Instructioin sheets
 1. [Lab 01](): Introduction to python Libraries -Numpy
-2. [Lab 02](): Introduction to python Libraries -Numpy
+2. [Lab 02](https://github.com/2303A51021/AIML_2025/blob/main/AIML_A2.pdf): Introduction to python Libraries -Numpy
 3. [Lab 03](): Introduction to python Libraries -Numpy
 4. [Lab 04](): Introduction to python Libraries -Numpy
 5. [Lab 05](): Introduction to python Libraries -Numpy
