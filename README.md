@@ -2,6 +2,7 @@
 2303a51021
 ASHWITHA
 #Artificial Intelligence and Mahine Learning Lab Instructioin sheets
+
 1. [Lab 01](https://github.com/2303A51021/AIML_2025/blob/main/AIML_A1%20(1)%20.pdf): Introduction to python Libraries -Numpy
 2. [Lab 02](https://github.com/2303A51021/AIML_2025/blob/main/AIML_A2.pdf): Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
 3. [Lab 03](https://github.com/2303A51021/AIML_2025/blob/main/AIML_A3.pdf): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
@@ -12,7 +13,9 @@ ASHWITHA
 8. [Lab 08](https://github.com/2303A51021/AIML_2025/blob/main/AIML_A8.pdf):Implement Decision Tree Classification using OpenML Car Dataset
 9. [Lab 09](https://github.com/2303A51021/AIML_2025/blob/main/AIML_A9.pdf): Implement Random Forest Ensemble Model using Lending Data
 10. [Lab 10](https://github.com/2303A51021/AIML_2025/blob/main/AIML_A10.pdf): Implement K-Means Clustering using Synthetic Data
+    
 #Artificial Intelligence and Mahine Learning Lab Instructioin sheets
+
 1. [Lab 01](https://github.com/2303A51021/AIML_2025/blob/main/lab01_AIMI.ipynb): Introduction to python Libraries -Numpy
 2. [Lab 02](https://github.com/2303A51021/AIML_2025/blob/main/lab02_AIML_ipynb.ipynb): Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
 3. [Lab 03](https://github.com/2303A51021/AIML_2025/blob/main/lab03_AIML.ipynb): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
