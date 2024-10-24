@@ -9,9 +9,9 @@ ASHWITHA
 5. [Lab 05](https://github.com/2303A51021/AIML_2025/blob/main/AIML_A5.pdf): Implement Logistic Regression Model Using Titanic Ship Dataset
 6. [Lab 06](https://github.com/2303A51021/AIML_2025/blob/main/AIML_A6.pdf): Implement the K Nearest Neighbor Classification using Classified Manufacturing Dataset
 7. [Lab 07](https://github.com/2303A51021/AIML_2025/blob/main/AIML_A7.pdf): Implement Support Vector Machine Classi cation using Breast Cancer Dataset
-8. [Lab 08](): Introduction to python Libraries -Numpy
-9. [Lab 09](): Introduction to python Libraries -Numpy
-10. [Lab 10](): Introduction to python Libraries -Numpy
+8. [Lab 08](https://github.com/2303A51021/AIML_2025/blob/main/AIML_A8.pdf): Introduction to python Libraries -Numpy
+9. [Lab 09](https://github.com/2303A51021/AIML_2025/blob/main/AIML_A9.pdf): Introduction to python Libraries -Numpy
+10. [Lab 10](https://github.com/2303A51021/AIML_2025/blob/main/AIML_A10.pdf): Introduction to python Libraries -Numpy
 
 
 #Artificial Intelligence and Mahine Learning Lab Instructioin sheets
