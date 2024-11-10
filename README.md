@@ -24,5 +24,5 @@ ASHWITHA
 6. [Lab 06](https://github.com/2303A51021/AIML_2025/blob/main/lab06_AIML_ipnb.ipynb): Implement the K Nearest Neighbor Classification using Classified Manufacturing Dataset
 7. [Lab 07](https://github.com/2303A51021/AIML_2025/blob/main/lab07.ipynb): Implement Support Vector Machine Classi cation using Breast Cancer Dataset
 8. [Lab 08](https://github.com/2303A51021/AIML_2025/blob/main/lab08_AIML_.ipynb): Implement Decision Tree Classification using OpenML Car Dataset
-9. [Lab 09](): Implement Random Forest Ensemble Model using Lending Data
-10. [Lab 10](): Implement K-Means Clustering using Synthetic Data
+9. [Lab 09](https://github.com/2303A51021/AIML_2025/blob/main/lab09_AIML_.ipynb): Implement Random Forest Ensemble Model using Lending Data
+10. [Lab 10](https://github.com/2303A51021/AIML_2025/blob/main/lab10_AIML_.ipynb): Implement K-Means Clustering using Synthetic Data
